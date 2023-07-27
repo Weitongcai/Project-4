@@ -19,7 +19,7 @@ Delete all dataset with null category
 Label restaurants above rating of 4 as “Excellent”, below rating 3 label as “OK”, label rating 3 to 4 as “Great”.
 Then we populated the cleaned data into the database and saved it to local files_SQL/ELT backend
 *the review.csv file is too lager, please ues the link below to access it:
-* https://drive.google.com/file/d/1n2kXkBDEXejWJRfARTiz203tzMjmYB77/view?usp=sharing
+https://drive.google.com/file/d/1n2kXkBDEXejWJRfARTiz203tzMjmYB77/view?usp=sharing
 
 
 Part 3: Visualisation (Mia, Christina, Gina/July 27)
