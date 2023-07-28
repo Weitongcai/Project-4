@@ -24,7 +24,7 @@ Part 3: Visualisation (Mia, Christina, Gina/July 27)
 Visualize the distribution of restaurants and reviews by category .
 Visualize the distribution of restaurants and reviews by rating.
 Visualize top 10 negative words and positive words in each cuisine type.
-
+URL FOR TABLEAU DATA VISUALIZATION: https://public.tableau.com/app/profile/christina.shen/viz/PROJECT4YELPDATAVISUALIZATION/Story1?publish=yes
 
 Part 4 : ML MODEL  (Christina,Gina, Weitong/July 31 & Aug 2)
 
