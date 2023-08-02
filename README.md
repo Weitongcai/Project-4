@@ -26,7 +26,7 @@ Visualize the distribution of restaurants and reviews by rating.
 Visualize top 10 negative words and positive words in each cuisine type.
 URL FOR TABLEAU DATA VISUALIZATION: https://public.tableau.com/app/profile/christina.shen/viz/PROJECT4YELPDATAVISUALIZATION/Story1?publish=yes
 
-Part 4 : ML MODEL  (Christina,Gina, Weitong/July 31 & Aug 2)
+Part 4 : ML MODEL  (Gina, Mia)
 
 Predict the star rating for reviews:
 SCIKIT LEARN: fit/train, and predict
